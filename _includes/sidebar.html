@@ -9,14 +9,14 @@
     </div>
 </div> -->
 
-<div class="sidebar-section">
-    <h5><span>Categories</span></h5>
-    <ul>
-        {% assign all_categories = site.categories | sort %}
-        {% for category in all_categories %}
-            <li>
-                <a href="/categories/{{ category | first | slugize }}/">{{ category | first }}</a>
-            </li>
-        {% endfor %}
-    </ul>
-</div>
+    <div class="sidebar-section">
+        <h5><span>Categories 1</span></h5>
+        <ul>
+            {% assign all_categories = site.categories | sort %}
+            {% for category in all_categories %}
+                <li>
+                    <a href="{{ site.baseurl }}/categories/#{{ category | first | slugize }}">{{ category | first }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
