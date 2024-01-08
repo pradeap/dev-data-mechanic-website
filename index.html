@@ -4,13 +4,23 @@ layout: default
 background: '/img/bg-index.jpg'
 ---
 
+
+<style>
+  /* Apply the Pacifico font */
+  .catchy-text {
+      font-family: 'Pacifico', cursive;
+      font-style: italic;
+      font-weight: bold;
+  }
+</style>
+
 <!-- Home Intro
 ================================================== -->
 {% if page.url == "/" %} 
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 serif-font">Welcome to Data Mechanic.</h1>
+      <h1 class="font-weight-bold mb-4 serif-font">Welcome to <span class="catchy-text">Data Mechanic </span></h1>
       <h7 class="font-weight-bold mb-4 serif-font">I am data engineer, with a PhD in Fluid dynamics. Here, I am sharing insights and reflections on my journey in the dynamic field of data engineering and my experience</h7>
       <p class="lead mb-4"></p>
       <!-- <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a> -->
