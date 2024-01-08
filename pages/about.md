@@ -5,6 +5,8 @@ permalink: "/about/"
 image: assets/images/about.png
 ---
 
+I am 
+
 Self learning Data Engineering is hard when you want to move from different domain, especially from non - computer science background. As a person from Mechanical Engineering background I went through the process of learning(Still learning) the jargons of Data Engineering. 
 
 
