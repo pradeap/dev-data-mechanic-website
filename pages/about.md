@@ -4,9 +4,20 @@ title: About
 permalink: "/about/"
 image: assets/images/about.png
 ---
-
+<style>
+    /* Apply the Pacifico font */
+    .catchy-text {
+        font-family: 'Pacifico', cursive;
+        font-style: italic;
+        font-weight: bold;
+    }
+</style>
 
 A self learnt Data Engineer trying to built a enterprise level data architecture. 
+
+Why Data Mechanic?, transition from the mechanical domain to data domain is hard, but it is rewarding in terms of exploration. Combining data and mechanical Hence
+
+<span class="catchy-text">Data Mechanic</span>
 
 <!-- Self learning Data Engineering is hard when you want to move from different domain, especially from non - computer science background. As a person from Mechanical Engineering background I went through the process of learning(Still learning) the jargons of Data Engineering. 
 
