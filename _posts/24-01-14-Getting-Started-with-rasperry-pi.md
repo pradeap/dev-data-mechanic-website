@@ -17,7 +17,9 @@ The micro SD card is the hard disk of the Pi device. Raperry Pi OS is the operat
 ## Installing the Rasperry Pi OS in the SD card. 
 
 <li>Insert the memory card in the laptop (Windows/MAC/Linux)</li>
-<li>Install the Raspberry Pi Imager from the link: https://www.raspberrypi.com/software </li>
+<li>Install the Raspberry Pi Imager from the link: 
+
+[https://www.raspberrypi.com/software][link-link] </li>
 <li>Once installed, run the Imager, the below image will pop up. </li>
 
 ![walking]({{ site.baseurl }}/assets/images/setting_up_rasperry_pi/0.png)
