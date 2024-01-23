@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up Rasperry Pi Device"
-categories: [ Data Engineering ]
+categories: [ Rasperry Pi ]
 image: assets/images/setting_up_rasperry_pi/rasperry_pi_image.jpg
 ---
 Recently I bought a Raspberry Pi to try Data Engineering work for IoT. For now, assume IoT as a sensor device that can measure the paraments. For example, place an IoT device inside/outside of the home to measure the temperature and transmit that data.
