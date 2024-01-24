@@ -4,15 +4,17 @@ title:  "Setting up Rasperry Pi Device"
 categories: [ Rasperry Pi ]
 image: assets/images/setting_up_rasperry_pi/rasperry_pi_image.jpg
 ---
-Recently I bought a Raspberry Pi to try Data Engineering work for IoT. For now, assume IoT as a sensor device that can measure the paraments. For example, place an IoT device inside/outside of the home to measure the temperature and transmit that data.
+
+I recently bought a Raspberry Pi to delve into Data Engineering tasks related to IoT. In this context, envision IoT as a sensor device capable of measuring various parameters and transmit the data. As an illustration, position an IoT device either indoors or outdoors to gauge temperature and subsequently transmit the gathered data.
 
 I ordered the Raspberry Pi through [The Pi Hut][pi-hut], 8 GB. 
 
-The power cable and the micro SD card are required in addition.  The micro USB to HDMI cable is required to connect the Pi to the monitor. Mouse and Keyboards are required, either wired or wireless. The device has got 4 USB slots.  These are the hardware required. 
+Additionally, the power cable and a micro SD card are essential. A micro USB to HDMI cable is required to link the device to a monitor, and either wired or wireless mouse and keyboards are necessary, given the device's four USB slots. These constitute the necessary hardware.
 
-Coming to the software, the device doesn't come with a pre-installed OS, like the Windows OS in the laptop. 
+Moving in to the software, the device doesn't come with a pre-installed OS, like the Windows OS in the laptop. 
 
-The micro SD card is the hard disk of the Pi device. Raperry Pi OS is the operating system for the device and this should be installed in the SD card before inserting it in to the device slot.
+The micro SD card functions as the Pi device's hard disk. The Raspberry Pi OS serves as the operating system for the device and must be installed on the SD card before inserting it into the device slot.
+
 
 ## Installing the Rasperry Pi OS in the SD card. 
 
